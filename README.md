@@ -40,7 +40,7 @@ The port to elgg is also released under MIT license. Feel free to do anything wi
 <h1>How to use Connect Plus Admin Theme for elgg?</h1>
 
 
-1 - Click the Clone or Download button in GitHub and download as a ZIP file or you can enter the command git clone https://github.com/rjcalifornia/architect-theme.git
+1 - Click the Clone or Download button in GitHub and download as a ZIP file or you can enter the command git clone https://github.com/rjcalifornia/connect-theme.git
 
 2 - After the files have been downloaded you will get a folder with the plugin
 
